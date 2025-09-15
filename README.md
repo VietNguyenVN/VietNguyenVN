@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **VietNguyenx**  
+# 👋 Hi, I’m **VietNguyenVN**  
 
 🎓 Major in **International Law**  
 🎹 Loves playing **Piano** & ♟️ **Chess**  
@@ -20,8 +20,8 @@ Even though my background is in law, I enjoy tinkering with Linux, customizing m
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VietNguyenx&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenx&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VietNguyenVN&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenVN&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -29,14 +29,7 @@ Even though my background is in law, I enjoy tinkering with Linux, customizing m
 
 - 🐧 Advanced Linux ricing & tiling window managers  
 - 📖 Bridging the gap between **law** and **technology**  
-- ✨ Open-source contribution opportunities  
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourwebsite.com)  
+- ✨ Open-source contribution opportunities
 
 ---
 
