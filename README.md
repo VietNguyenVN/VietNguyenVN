@@ -21,8 +21,6 @@ Even though my background is in law, I enjoy tinkering with Linux, customizing m
 ## 📊 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VietNguyenVN&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenVN&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 🌱 Currently Exploring  
