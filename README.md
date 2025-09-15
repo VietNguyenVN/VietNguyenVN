@@ -40,9 +40,6 @@ Even though my background is in law, I enjoy tinkering with Linux, customizing m
 
 ---
 
-⭐️ From [VietNguyenx](https://github.com/VietNguyenx)  
-
-
 
 <!---
 VietNguyenVN/VietNguyenVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
