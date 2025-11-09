@@ -2,7 +2,7 @@
 
 🎓 Major in **International Law**  
 🎹 Loves playing **Piano** & ♟️ **Chess**  
-🐧 Daily driving **Arch Linux / EndeavourOS + Hyprland**  
+🐧 Daily driving **Arch Linux / EndeavourOS / CachyOS + Hyprland**  
 🌐 Following & supporting the **FOSS movement**  
 
 ---
@@ -12,7 +12,7 @@
 Even though my background is in law, I enjoy tinkering with Linux, customizing my workflow, and exploring open-source communities.  
 
 **Current setup:**  
-- **OS**: Arch Linux / EndeavourOS  
+- **OS**: Arch Linux / EndeavourOS / CachyOS
 - **WM**: Hyprland  
 - **Philosophy**: Free & Open-Source Software (FOSS) ❤️  
 
