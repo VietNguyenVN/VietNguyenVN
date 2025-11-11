@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Interests  
 
-Even though my background is in international law and itnernational relations, I enjoy tinkering with Linux, customizing my workflow, and exploring open-source communities.  
+Even though my background is in international law and international relations, I enjoy tinkering with Linux, customizing my workflow, and exploring open-source communities.  
 
 **Current setup:**  
 - **OS**: Arch Linux / EndeavourOS / CachyOS
