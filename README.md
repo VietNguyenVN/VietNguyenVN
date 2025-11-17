@@ -15,12 +15,7 @@ Even though my background is in international law and international relations, I
 - **OS**: Arch Linux / EndeavourOS / CachyOS
 - **WM**: Hyprland  
 - **Philosophy**: Free & Open-Source Software (FOSS) ❤️  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VietNguyenVN&show_icons=true&theme=tokyonight)  
+ 
 ---
 
 ## 🌱 Currently Exploring  
