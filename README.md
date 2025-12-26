@@ -1,32 +1,21 @@
-# 👋 Hi, I’m **VietNguyenVN**  
+## Hi, I’m VietNguyenx
 
-🎓 Major in **International Law**  
-🎹 Loves playing **Piano** & ♟️ **Chess**  
-🐧 Daily driving **Arch Linux / EndeavourOS / CachyOS + Hyprland**  
-🌐 Following & supporting the **FOSS movement**  
+I have an academic background in **International Law** with a strong personal interest in **Linux systems** and **open-source software**.
 
----
+### Interests
+- Linux customization and workflow optimization
+- Free and Open-Source Software (FOSS) ❤️
+- The intersection of law and technology
 
-## 🔧 Tech Interests  
-
-Even though my background is in international law and international relations, I enjoy tinkering with Linux, customizing my workflow, and exploring open-source communities.  
-
-**Current setup:**  
+### Current Setup
 - **OS**: Arch Linux / EndeavourOS / CachyOS
-- **WM**: Hyprland  
-- **Philosophy**: Free & Open-Source Software (FOSS) ❤️  
- 
----
+- **WM**: Hyprland
+- **Philosophy**: The less proprietary garbage, the better.
 
-## 🌱 Currently Exploring  
-
-- 🐧 Advanced Linux ricing & tiling window managers  
-- 📖 Bridging the gap between **law** and **technology**  
-- ✨ Open-source contribution opportunities
-
----
-
-
+### Currently Exploring
+- Advanced Linux configuration and ricing
+- Open-source contribution opportunities
+- Legal and policy implications of technology
 <!---
 VietNguyenVN/VietNguyenVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
