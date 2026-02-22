@@ -17,7 +17,7 @@ I have an academic background in **International Law** with a strong personal in
 - Open-source contribution opportunities
 - Legal and policy implications of technology
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=VietNguyenVN&theme=github-dark&hide_border=true&background=00000000" height="150"/>
 </p>
 
