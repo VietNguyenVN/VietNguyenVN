@@ -23,7 +23,7 @@ I have an academic background in **International Law** with a strong personal in
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VietNguyenx&theme=github-dark&hide_border=true&background=00000000" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=VietNguyenVN&theme=github-dark&hide_border=true&background=00000000" height="150"/>
 </p>
 
 <!---
