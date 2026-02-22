@@ -17,9 +17,15 @@ I have an academic background in **International Law** with a strong personal in
 - Open-source contribution opportunities
 - Legal and policy implications of technology
 
-![VietNguyenx's GitHub stats](https://github-readme-stats.vercel.app/api?username=VietNguyenx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VietNguyenVN&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenVN&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="150"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenx&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VietNguyenx&theme=github-dark&hide_border=true&background=00000000" height="150"/>
+</p>
+
 <!---
 VietNguyenVN/VietNguyenVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
