@@ -18,10 +18,6 @@ I have an academic background in **International Law** with a strong personal in
 - Legal and policy implications of technology
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietNguyenVN&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=VietNguyenVN&theme=github-dark&hide_border=true&background=00000000" height="150"/>
 </p>
 
