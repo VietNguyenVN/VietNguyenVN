@@ -1,22 +1,23 @@
-## Hi, I’m VietNguyenx
+```console
+VietNguyenVN@github:~$ fastfetch
 
-I have an academic background in **International Law** with a strong personal interest in **Linux systems** and **open-source software**.
+  /\__/\    VietNguyenVN@github
+  )    (    -------------
+ =\    /=   OS: EndeavourOS / CachyOS
+   )  (     Host: XPS 13 9350 / Predator G3-605
+  /    \    Kernel: linux (btw)
+  )    (    Uptime: Since last pacman -Syu
+ /      \   Packages: Mostly FOSS ❤️
+ \      /   Shell: bash / zsh / fish
+  \_  _/    WM: Hyprland (Wayland)
+    ))      Editor: nvim
+   //       Terminal: kitty 
+  ((        Font: JetBrainsMono Nerd Font
+   \)       Background: International Law
+            Exploring: Ricing, open-source contributions
+            Philosophy: The less proprietary garbage, the better.
 
-### Interests
-- Linux customization and workflow optimization
-- Free and Open-Source Software (FOSS) ❤️
-- The intersection of law and technology
-
-### Current Setup
-- **OS**: Arch Linux / EndeavourOS / CachyOS
-- **WM**: Hyprland
-- **Philosophy**: The less proprietary garbage, the better.
-
-### Currently Exploring
-- Advanced Linux configuration and ricing
-- Open-source contribution opportunities
-- Legal and policy implications of technology
-
+```
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=VietNguyenVN&theme=github-dark&hide_border=true&background=00000000" height="150"/>
 </p>
