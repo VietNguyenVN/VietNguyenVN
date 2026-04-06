@@ -3,10 +3,10 @@ VietNguyenVN@github:~$ fastfetch
 
   /\__/\    VietNguyenVN@github
   )    (    -------------
- =\    /=   OS: EndeavourOS / CachyOS
+ =\    /=   OS: CachyOS
    )  (     Host: XPS 13 9350 / Predator G3-605
   /    \    Kernel: linux (btw)
-  )    (    Uptime: Since last pacman -Syu
+  )    (    Uptime: Since last cachy-update
  /      \   Packages: Mostly FOSS ❤️
  \      /   Shell: bash / zsh / fish
   \_  _/    WM: Hyprland (Wayland)
