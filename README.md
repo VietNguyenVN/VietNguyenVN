@@ -5,10 +5,10 @@ VietNguyenVN@github:~$ fastfetch
   )    (    -------------
  =\    /=   OS: CachyOS
    )  (     Host: XPS 13 9350 / Predator G3-605
-  /    \    Kernel: linux (btw)
+  /    \    Kernel: linux-cachyos (btw)
   )    (    Uptime: Since last cachy-update
  /      \   Packages: Mostly FOSS ❤️
- \      /   Shell: bash / zsh / fish
+ \      /   Shell: bash / fish
   \_  _/    WM: Hyprland (Wayland)
     ))      Editor: nvim
    //       Terminal: kitty 
