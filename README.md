@@ -18,10 +18,8 @@ VietNguyenVN@github:~$ fastfetch
             Philosophy: The less proprietary garbage, the better.
 
 ```
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=VietNguyenVN&theme=github-dark&hide_border=true&background=00000000" height="150"/>
-</p>
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=VietNguyenVN)
+![Top Languages](https://ghstats.dev/api/langs?username=VietNguyenVN)
 <!---
 VietNguyenVN/VietNguyenVN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
